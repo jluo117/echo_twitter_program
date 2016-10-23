@@ -1,0 +1,31 @@
+GetdigitaltrendsIntent tech
+GetdigitaltrendsIntent technology tweets
+GetdigitaltrendsIntent tech news
+GetdigitaltrendsIntent technology news
+GetdigitaltrendsIntent tech tweets
+GetpoliticalIntent politics
+GetpoliticalIntent political issues
+GetpoliticalIntent political tweets
+GetpoliticalIntent politics news
+GetpoliticalIntent politic 
+GetpoliticalIntent politics news
+GetcelebrityIntent celebrity
+GetcelebrityIntent celebrity news
+GetcelebrityIntent celebrity tweets
+GetmoneyIntent money
+GetmoneyIntent money tweets
+GetmoneyIntent cash
+GetmoneyIntent economic news
+GetmoneyIntent economic tweets
+GetsportsIntent sports
+GetsportsIntent sports news
+GetsportsIntent sports tweets
+GettopTweetIntent top tweet
+GettopTweetIntent top trending tweets
+GettopTweetIntent top news
+optionIntent options
+optionIntent help
+optionIntent what can i do
+optionIntent what functions are there
+optionIntent SOS
+

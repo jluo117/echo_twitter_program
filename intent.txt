@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "GetdigitaltrendsIntent"},
+    {"intent": "GetpoliticalIntent"},
+    
+    {"intent": "AnswerIntent"
+    },
+    {"intent" :  "GetmoneyIntent"
+    },
+    {"intent": "GetsportsIntent"},
+    {
+      "intent": "GettopTweetIntent"},
+    {"intent": "GetcelebrityIntent"},
+    {"intent": "optionIntent"},
+    
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
